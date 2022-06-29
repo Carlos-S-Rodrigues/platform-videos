@@ -1,7 +1,7 @@
 <h1 align="center">Plataforma de vídeos - IgniteLab</h1>
 
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 ReactJS</a>
+    <a href="https://vitejs.dev/guide/#browser-support">🔗 Vite/React/TypeScript</a>
 </h1>
 <ul>
   <li> Projeto criado com React TypeScript pelo Vite</li>
