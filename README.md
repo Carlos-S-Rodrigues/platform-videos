@@ -15,7 +15,7 @@
 </ul>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...🚧 <br>
+	🚧  Em construção...🚧 <br>
   Ainda falta finalizar as aulas 4 e 5
   onde são vistos alguns conteúdos como GraphQL Code Generator.
 </h4>
